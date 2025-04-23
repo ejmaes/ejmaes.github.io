@@ -1,0 +1,45 @@
+
+- description: Python (Object-Oriented Programming)
+  public: BSc Maths (L1)
+  role: Lectures, Tutorials
+  title: (SLD2U11L) Programmation en Python
+  year: Spring 2025
+  university: AMU
+- description: Dataviz
+  public: BSc CS (L3)
+  role: Lectures, Tutorials
+  title: (SDSM01A) Visualisation de Données - Overview of Data visualization techniques and tools
+  link: https://formations.univ-amu.fr/fr/all/PSDS/PRSDSPC1?ens=1
+  year: Spring 2025
+  university: AMU
+- description: Web
+  public: BSc CS (L2)
+  role: Tutorials, Projects supervision
+  title: (SIN4U26C) Web - HTML, CSS, JS, Sync & Async methods, Templating with Flask+Jinja
+  year: Winter 2025
+  university: AMU
+- description: Java (Introductory Courses)
+  public: BSc CS (L1)
+  role: Tutorials
+  title: (SLD2U04A) Programmation en Java
+  year: Winter 2025
+  university: AMU
+- description: Multimodal Learning
+  public: MSc AI (M2)
+  role: Projects supervision
+  title: Signal, Apprentissage et Multimedia
+  link: https://iaaa.lis-lab.fr/?page_id=44#SAM
+  year: Fall 2023
+  university: AMU
+- description: Python (Student Projects)
+  public: BSc CS (L1)
+  role: Projects supervision
+  title: Projet Python
+  year: 2022-2023
+  university: AMU
+- description: Python (Introductory Courses)
+  public: BSc CS (L1)
+  role: Tutorials
+  title: Mise en Oeuvre en Informatique
+  year: 2021-2024
+  university: AMU

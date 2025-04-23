@@ -1,0 +1,38 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Eliot Maës' webpage"
+
+[params]
+  profileImage = "/images/avatar.jpg"
+  role = "PhD Candidate"
+  organization = "Aix-Marseille University"
+  email = "eliot.maes@lis-lab.fr"
+  github = "https://github.com/ejmaes"
+  linkedin = "https://linkedin.com/in/eliot-maes"
+  cv = "/files/resume.pdf"
+  bio = """An engineer student before pivoting towards academic research, 
+I am both interested in technology and its potential, and in the way we humans acquired our cognitive abilities and evolved into what we are today.
+
+Special interests: Deep Learning research, Cognitive Science, Computational Archeology, Video Games
+Current projects: Multimodal models, EEG and Deep Learning, Agents"""
+  
+  interests = [
+    "Artificial Intelligence",
+    "Multimodal Learning",
+    "Digital humanities "
+  ]
+  
+  [[params.education]]
+    degree = "PhD in AI and Cognitive Science"
+    institution = "Aix-Marseille University"
+    year = "2025"
+  
+  [[params.education]]
+    degree = "MSc in Cognitive Sciecne"
+    institution = "Aix-Marseille University"
+    year = "2021"
+  
+  [[params.education]]
+    degree = "MEng in Data Science"
+    institution = "Ecole Centrale de Lille"
+    year = "2017"

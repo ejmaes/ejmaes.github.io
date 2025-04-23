@@ -1,0 +1,89 @@
+- author: Maës, Eliot and Boudraa, Hossam and Blache, Philippe and Becerra-Bonache,
+    Leonor
+  booktitle: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  pages: 4877-4890
+  title: Did You Get It? A Zero-Shot Approach To Locate Information Transfers In Conversations
+  year: 2024
+- author: Maës, Eliot and Boudraa, Hossam and Blache, Philippe and Becerra-Bonache,
+    Leonor
+  booktitle: 'Actes de JEP-TALN-RECITAL 2024. 31ème Conférence sur le Traitement Automatique
+    des Langues Naturelles, volume 2: traductions d''articles publiés'
+  organization: ATALA & AFPC
+  pages: 22-22
+  title: Une approche zero-shot pour localiser les transferts d’informations en conversation
+    naturelle
+  year: 2024
+- author: Maës, Eliot and Legou, Thierry and Becerra, Leonor and Blache, Philippe
+  booktitle: Proceedings of the 14th International Conference on Recent Advances in
+    Natural Language Processing
+  pages: 691-702
+  title: 'Studying common ground instantiation using audio, video and brain behaviours:
+    the BrainKT corpus'
+  year: 2023
+- author: Maës, Eliot and Blache, Philippe and Becerra-Bonache, Leonor
+  booktitle: 26th Conference on Computational Natural Language Learning (CoNLL)
+  pages: 213-227
+  title: 'Shared knowledge in natural conversations: can entropy metrics shed light
+    on information transfers?'
+  year: 2022
+- author: Maës, Eliot and Legou, Thierry and Becerra-Bonache, Leonor and Blache, Philippe
+  booktitle: 'Actes de JEP-TALN-RECITAL 2024. 31ème Conférence sur le Traitement Automatique
+    des Langues Naturelles, volume 2: traductions d''articles publiés'
+  organization: ATALA & AFPC
+  pages: 14-15
+  title: 'Le corpus BrainKT: Etudier l’instanciation du common ground par l’analyse
+    des indices verbaux, gestuels et neurophysiologiques'
+  year: 2024
+- author: Blache, Philippe and Antoine, Salomé and de Jong, Dorina and Huttner, Lena-Marie
+    and Kerr, Emilia and Legou, Thierry and Maës, Eliot and François, Clément
+  booktitle: Language Resources and Evaluation Conference
+  title: The Badalona Corpus An Audio, Video and Neuro-Physiological Conversational
+    Dataset
+  year: 2022
+- author: Nikolaus, Mitja and Maës, Eliot and Auguste, Jeremy and Prevot, Laurent
+    and Fourtassi, Abdellah
+  journal: Language Development Research
+  number: '1'
+  pages: 268-304
+  title: Large-scale study of speech acts' development in early childhood
+  volume: '2'
+  year: 2022
+- author: Hallart, Charlie and Maes, Juliette and Spatola, Nicolas and Prévot, Laurent
+    and Chaminade, Thierry
+  journal: Revue TAL
+  number: '3'
+  pages: 69-93
+  title: Comparaison linguistique et neuro-physiologique de conversations humain humain
+    et humain robot
+  volume: '61'
+  year: 2021
+- author: Nikolaus, Mitja and Maes, Juliette and Fourtassi, Abdellah
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  number: '43'
+  title: 'Modeling speech act development in early childhood: the role of frequency
+    and linguistic cues'
+  volume: '43'
+  year: 2021
+- author: Nikolaus, Mitja and Maes, Juliette and Auguste, Jeremy and Prevot, Laurent
+    and Fourtassi, Abdellah
+  booktitle: Proceedings of the Annual Meeting of the Cognitive Science Society
+  number: '43'
+  title: Large-scale study of speech acts' development using automatic labelling
+  volume: '43'
+  year: 2021
+- author: Ha, David and Maes, Juliette and Tomotoshi, Yuya and Watanabe, Hideyuki
+    and Katagiri, Shigeru and Osaki, Miho
+  journal: IEICE Technical Report; IEICE Tech. Rep.
+  number: '442'
+  pages: 121-126
+  publisher: IEICE
+  title: A Classification-Uncertainty-Based Criterion for Classification Boundary
+    Selection
+  volume: '117'
+  year: 2018
+- author: Ha, David and Maes, Juliette and Tomotoshi, Yuya and Melle, Charles and
+    Watanabe, Hideyuki and Katagiri, Shigeru and Ohsaki, Miho
+  booktitle: Proceedings of IPSJ Kansai-Branch Convention 2017
+  title: A class boundary selection criterion for classification
+  year: 2017
