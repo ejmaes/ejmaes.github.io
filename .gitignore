@@ -36,3 +36,6 @@ hugo_stats.json
 .vscode/
 *.sublime-workspace
 *.sublime-project
+
+# reminder Claude
+static/ignore.txt

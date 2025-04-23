@@ -1,0 +1,96 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+}
+.navbar-nav {
+    position: absolute;
+    right:2rem;
+}
+
+/*** PROFILE ***/
+.profile-section {
+    background-color: #3a7757;
+    color: white;
+    padding: 2rem 0;
+}
+.profile-image {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 4px solid white;
+}
+.social-icons a {
+    color: white;
+    font-size: 1.2rem;
+    margin: 0 0.5rem;
+    transition: opacity 0.3s;
+}
+.social-icons a:hover {
+    opacity: 0.7;
+}
+.content-section {
+    padding: 2rem 0;
+    background-color: white;
+}
+.section-heading {
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+.list-styled {
+    padding-left: 1.5rem;
+}
+.list-styled li {
+    position: relative;
+    padding-left: 0.5rem;
+    margin-bottom: 0.4rem;
+}
+.list-styled li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #3a7757;
+}
+/*** education ***/
+.education-item {
+    margin-bottom: 1rem;
+}
+.education-icon {
+    color: #ffffff;
+    margin-right: 0.5rem;
+}
+.education-yl {
+    font-weight: 100;
+    margin-left: 1.6rem;
+}
+.btn-download {
+    background-color: #1a402c;
+    color: white;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 2rem;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+.btn-download:hover {
+    background-color: #162c21;
+    color: white;
+}
+
+/*** PUBLICATIONS ***/
+.publication-title {
+    font-weight: 600;
+}
+.publication-venue {
+    color: #666;
+}
+
+/*** TEACHING ***/
+.teaching-details{
+    font-size: smaller;
+    margin-bottom: 0.3rem;
+}

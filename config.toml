@@ -1,6 +1,7 @@
-baseURL = "/"
+baseURL = "https://ejmaes.github.io/"
 languageCode = "en-us"
 title = "Eliot Maës' webpage"
+publishDir = "docs"
 
 [params]
   profileImage = "/images/avatar.jpg"
