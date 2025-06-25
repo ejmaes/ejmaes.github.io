@@ -21,12 +21,6 @@
   title: 'Studying common ground instantiation using audio, video and brain behaviours:
     the BrainKT corpus'
   year: 2023
-- author: Maës, Eliot and Blache, Philippe and Becerra-Bonache, Leonor
-  booktitle: 26th Conference on Computational Natural Language Learning (CoNLL)
-  pages: 213-227
-  title: 'Shared knowledge in natural conversations: can entropy metrics shed light
-    on information transfers?'
-  year: 2022
 - author: Maës, Eliot and Legou, Thierry and Becerra-Bonache, Leonor and Blache, Philippe
   booktitle: 'Actes de JEP-TALN-RECITAL 2024. 31ème Conférence sur le Traitement Automatique
     des Langues Naturelles, volume 2: traductions d''articles publiés'
@@ -35,6 +29,12 @@
   title: 'Le corpus BrainKT: Etudier l’instanciation du common ground par l’analyse
     des indices verbaux, gestuels et neurophysiologiques'
   year: 2024
+- author: Maës, Eliot and Blache, Philippe and Becerra-Bonache, Leonor
+  booktitle: 26th Conference on Computational Natural Language Learning (CoNLL)
+  pages: 213-227
+  title: 'Shared knowledge in natural conversations: can entropy metrics shed light
+    on information transfers?'
+  year: 2022
 - author: Blache, Philippe and Antoine, Salomé and de Jong, Dorina and Huttner, Lena-Marie
     and Kerr, Emilia and Legou, Thierry and Maës, Eliot and François, Clément
   booktitle: Language Resources and Evaluation Conference

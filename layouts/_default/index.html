@@ -52,6 +52,9 @@
                         <a href="{{ .Site.Params.cv | default "/files/resume.pdf" }}" class="btn btn-download">
                             <i class="fas fa-download me-1"></i> Download CV
                         </a>
+                        <a href="{{ .Site.Params.academicCv | default "/files/academic-resume.pdf" }}" class="btn btn-download">
+                            <i class="fas fa-download me-1"></i> Academic CV
+                        </a>
                     </div>
                     
                     <div class="row mt-4">
@@ -107,15 +110,16 @@
             <h2 class="section-heading">Teaching</h2>
             <!-- TODO: use partials -->
             <ul>
-            {{ range .Site.Data.teaching }}
-            <li><div class="teaching-item">
-                <span class="teaching-semester">({{ .year }}, {{ .university }})</span>
-                <span class="teaching-description"><strong>{{ .description }}</strong></span> 
-                for <span class="teaching-description">{{ .public }}</span> students - 
-                <span class="teaching-job">{{ .role }}</span>
-                <div class="teaching-details">
-                    <span class="teaching-course">{{ .title }}</span>
-                    {{ if .link }}<a href="{{ .link }}" target="_blank">[Link]</a>{{ end }}
+                {{ range .Site.Data.teaching }}
+                <li><div class="teaching-item">
+                    <span class="teaching-semester">({{ .year }}, {{ .university }})</span>
+                    <span class="teaching-description"><strong>{{ .description }}</strong></span> 
+                    for <span class="teaching-description">{{ .public }}</span> students - 
+                    <span class="teaching-job">{{ .role }}</span>
+                    <div class="teaching-details">
+                        <span class="teaching-course">{{ .title }}</span>
+                        {{ if .link }}<a href="{{ .link }}" target="_blank">[Link]</a>{{ end }}
+                        <!--{else}<span style="visibility: hidden;">[Link]</span> can be in the if .link -->
                 </div>
             </div></li>
             {{ end }}

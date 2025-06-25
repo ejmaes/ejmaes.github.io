@@ -5,12 +5,13 @@ publishDir = "docs"
 
 [params]
   profileImage = "/images/avatar.jpg"
-  role = "PhD Candidate"
+  role = "PhD Researcher"
   organization = "Aix-Marseille University"
   email = "eliot.maes@lis-lab.fr"
   github = "https://github.com/ejmaes"
   linkedin = "https://linkedin.com/in/eliot-maes"
   cv = "/files/resume.pdf"
+  academicCv = "/files/academic-resume.pdf"
   bio = """An engineer student before pivoting towards academic research, 
 I am both interested in technology and its potential, and in the way we humans acquired our cognitive abilities and evolved into what we are today.
 
